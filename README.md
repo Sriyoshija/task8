@@ -48,13 +48,4 @@ The project follows standard Python coding conventions.
 
 **Workflow:**                                                                                                                                                               
 
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/addf3579-5e01-4c04-a9a6-e38b7755ec12)
